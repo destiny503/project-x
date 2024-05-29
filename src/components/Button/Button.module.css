@@ -1,0 +1,33 @@
+.button {
+  border-radius: 5px;
+  padding: 8px 20px;
+  cursor: pointer;
+  background-color: #fff;
+}
+
+.button_red {
+  border: 1px solid rgba(210, 25, 25, 0.5);
+  color: red;
+}
+
+.button_red:hover {
+  border: 1px solid rgba(210, 25, 25, 0.2);
+}
+
+.button_blue {
+  border: 1px solid rgba(0, 26, 255, 0.5);
+  color: rgb(4, 0, 255);
+}
+
+.button_blue:hover {
+  border: 1px solid rgba(3, 0, 209, 0.2);
+}
+
+.button_orange {
+  border: 1px solid rgba(186, 116, 19, 0.5);
+  color: orange;
+}
+
+.button_orange:hover {
+  border: 1px solid rgba(218, 165, 19, 0.2);
+}
